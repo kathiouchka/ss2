@@ -1,0 +1,30 @@
+{
+  "name": "ss",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.2",
+    "async-sema": "^3.1.1",
+    "axios": "^1.7.2",
+    "better-queue": "^3.8.12",
+    "bs58": "^6.0.0",
+    "bs58check": "^4.0.0",
+    "cross-fetch": "^4.0.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jito-ts": "^4.1.1",
+    "rpc-websockets": "^7.10.0",
+    "ws": "^8.18.0"
+  }
+}
